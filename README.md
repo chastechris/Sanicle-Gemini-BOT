@@ -1,7 +1,9 @@
 # Sanicle-Gemini-BOT
-![WhatsApp Image 2024-04-15 at 18 39 13_9806248c](https://github.com/chastechris/Sanicle-Gemini-BOT/assets/113937256/2dd84a2d-54a5-4aec-b09f-e53035750318)
+![WhatsApp Image 2024-04-15 at 18 39 13_9806248c](https://github.com/chastechris/Sanicle-Gemini-BOT/assets/113937256/e3f63ca7-7930-431b-b7f3-7c8ddb6188c4)
+![WhatsApp Image 2024-04-15 at 18 41 36_c8bd2077](https://github.com/chastechris/Sanicle-Gemini-BOT/assets/113937256/c47e3b43-acc9-4a26-9d8c-9e480dd520f7)
 
-![WhatsApp Image 2024-04-15 at 18 41 36_c8bd2077](https://github.com/chastechris/Sanicle-Gemini-BOT/assets/113937256/e352857a-0c39-41f3-8059-7c1f9c4168de)
+
+
 
 You can use your credentials in config.py and connect it with your meta app to test the bot
 
